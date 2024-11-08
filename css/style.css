@@ -906,7 +906,7 @@ ul.course-menu li a:hover {
 ===================================================*/
 
 .help-area {
-    background: url(../images/help-bg.png);
+    background: url(..images/help-bg.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -921,7 +921,7 @@ ul.course-menu li a:hover {
     width: 50%;
     height: 100%;
     right: 0;
-    background: url(../images/help-thumb.jpg);
+    background: url(..images/help-thumb.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -1658,7 +1658,7 @@ a.nest-btn.choose {
 ===================================================*/
 
 .registration-area {
-    background: url(../images/oak-bg.jpg);
+    background: url(..images/oak-bg.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
