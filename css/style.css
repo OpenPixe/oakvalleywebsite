@@ -921,7 +921,7 @@ ul.course-menu li a:hover {
     width: 50%;
     height: 100%;
     right: 0;
-    background: url(..images/help-thumb.jpg);
+    background: url(../images/help-thumb.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
