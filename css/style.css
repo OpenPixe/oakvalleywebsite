@@ -906,7 +906,7 @@ ul.course-menu li a:hover {
 ===================================================*/
 
 .help-area {
-    background: url(..images/help-bg.png);
+    background: url(../images/help-bg.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
